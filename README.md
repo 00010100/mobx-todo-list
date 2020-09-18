@@ -4,13 +4,13 @@
 
 Firstly make sure that you have [Node](https://nodejs.org/en/download/) and [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) installed.
 
-Next clone this repo https://github.com/00010100/todo-list.git. You can do this by going into your shell of choice and entering
+Next clone this repo https://github.com/00010100/mobx-todo-list.git. You can do this by going into your shell of choice and entering
 ```
-git clone https://github.com/00010100/todo-list.git
+git clone https://github.com/00010100/mobx-todo-list.git
 ```
 then change into that folder
 ```
-cd todo-list
+cd mobx-todo-list
 ```
 
 install the necessary packages locally with npm
